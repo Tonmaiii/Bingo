@@ -1,0 +1,98 @@
+Obtain:
+Powder Snow Bucket
+Compass
+Full diamond armor
+Full diamond tools
+Elytra
+Full diamond armor
+Full diamond tools
+Full gold armor
+Full gold tools
+Full wooden tools
+Full iron armor
+Full leather armor
+Nautilus shell
+Name tag
+Slime block
+Dispenser
+Lightning Rod
+End rod
+End crystal
+Amethyst shard
+Heart of the sea
+
+Do not obtain:
+Seeds
+Netherrack
+Crafting table
+
+Mine:
+Diamond ore
+Emerald Ore
+Spawner
+Obsidian
+
+Eat:
+Chorus Fruit
+Enchanted Golden Apple
+Pufferfish
+Tropical fish
+
+Breed:
+Chicken
+Horse
+Donkey
+Wolf
+Turtle
+Hoglin
+Bee
+
+Use (not just right click):
+Jukebox
+Loom
+Smithing table
+Minecart
+Book and quill
+Enchanting table
+Bed
+Brewing stand
+Composter
+
+Find Structure:
+Nether Fortress
+Bastion
+Stronghold
+End City
+
+Effect:
+Glowing
+Mining fatigue
+Jump boost
+Speed
+Bad Omen
+Dolphin Grace
+Water Breathing
+
+Kill:
+Elder Guardian
+Ghast
+Iron Golem
+Piglin Brute
+Pillager
+Player
+Witch
+Zoglin
+
+Do not:
+Jump
+Take fall damage
+Die
+
+Die to:
+Bee
+void
+entity cramming
+suffocation
+anvil
+
+Hit another player with a projectile
